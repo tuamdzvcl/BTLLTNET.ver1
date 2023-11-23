@@ -1,0 +1,13 @@
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLyNhanVien.resources
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Home.resources
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sanpham.resources
+C:\Users\phamn\OneDrive\Máy tính\project C#\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.NCC.resources
